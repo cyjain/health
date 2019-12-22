@@ -1,0 +1,5 @@
+com\health\service\OrderSettingService.class
+com\health\service\OrderService.class
+com\health\service\CheckGroupService.class
+com\health\service\SetmealService.class
+com\health\service\CheckItemService.class
